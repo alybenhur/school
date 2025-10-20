@@ -5,7 +5,7 @@
     <v-app-bar-nav-icon></v-app-bar-nav-icon>
   </template>
 
-  <v-app-bar-title>School 2025</v-app-bar-title>
+  <v-app-bar-title>School 2030</v-app-bar-title>
   <template v-slot:append>
           <v-btn  @click="dialog = true">Iniciar Sesion</v-btn>
         </template>
